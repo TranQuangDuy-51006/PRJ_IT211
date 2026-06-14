@@ -49,9 +49,9 @@ jwt:
   refresh-token-expiration: 86400000    # 1 day in ms
 
 cloudinary:
-  cloud-name: dunfmbzif
-  api-key: 968952819632974
-  api-secret: x_sjisHt4tzTOwkxdi5hUyqT5Tc
+  cloud-name: dfzpwkldb
+  api-key: 897762677499463
+  api-secret: PniRM-dTReHjvra-1agqrDvO93c
 
 logging:
   level:
